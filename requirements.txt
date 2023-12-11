@@ -1,0 +1,8 @@
+tqdm
+torch
+matplotlib
+torchvision
+safetensors
+tensorboard
+scikit-learn;python_version>="3.8"
+scikit-learn==1.0.2;python_version<"3.8"
