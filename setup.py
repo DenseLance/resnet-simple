@@ -3,7 +3,7 @@ import setuptools
 
 # METADATA
 NAME = "resnet-simple"
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 AUTHOR = "Lance Chin"
 EMAIL = "denselance@gmail.com"
 DESCRIPTION = "Python package that provides a well-documented and easy to use implementation of ResNet (and ResNetv1.5), together with its most basic use case of image classification."
